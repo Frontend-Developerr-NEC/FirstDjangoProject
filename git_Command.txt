@@ -1,0 +1,9 @@
+git add .
+
+git commit -m "Django"
+
+git remote add origin https://github.com/Frontend-Developerr-NEC/017.git
+
+git remote -v
+
+git push -u origin master
